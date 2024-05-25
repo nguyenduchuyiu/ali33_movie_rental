@@ -39,6 +39,7 @@ This README outlines the steps for setting up and running the ALI33 web applicat
     ```bash
     cd backend
     ```
+    Unzip the file similarity_matrices.rar in the backend/assets directory.
 
 2.  **Run the Server:**
     ```bash
