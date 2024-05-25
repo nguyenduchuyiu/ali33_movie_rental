@@ -14,6 +14,7 @@ frontend/test
 frontend/windows
 frontend/.flutter-plugins
 frontend/.flutter-plugins-dependencies
+# backend/assets/similarity_matrices.npz
 frontend/.metadata
 frontend/analysis_options.yaml
 frontend/Dockerfile
@@ -24,4 +25,4 @@ test.ipynb
 .vscode
 backend/Dockerfile
 backend/assets/database/*.csv
-backend/assets/similarity_matrices.npz
+# backend/assets/similarity_matrices.npz
