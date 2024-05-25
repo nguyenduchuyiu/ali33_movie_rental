@@ -33,7 +33,11 @@ This README outlines the steps for setting up and running the ALI33 web applicat
     ```
     This will run a script to populate the database with initial data.
 
-### 2. Backend Setup 
+### 2. Setup similarity_matrices.npz
+1. unrar **similarity_matrices.rar** inside path: *backend/assets* 
+2. save **similarity_matrices.npz** follow  *backend/assets/similarity_matrices.npz*
+
+### 3. Backend Setup 
 
 1.  **Navigate to the Backend Folder:**
     ```bash
@@ -47,7 +51,7 @@ This README outlines the steps for setting up and running the ALI33 web applicat
     ```
     This will start the backend server, making the application's API available.
 
-### 3. Frontend Setup (Open an additional terminal)
+### 4. Frontend Setup (Open an additional terminal)
 
 1.  **Navigate to the Frontend Folder:**
     ```bash
