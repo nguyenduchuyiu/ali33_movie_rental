@@ -34,7 +34,7 @@ This README outlines the steps for setting up and running the ALI33 web applicat
     This will run a script to populate the database with initial data.
 
 ### 2. Setup similarity_matrices.npz
-1. unrar **similarity_matrices.rar** inside path: *backend/assets* 
+1. unzip **similarity_matrices.rar** in the path: *backend/assets* 
 2. save **similarity_matrices.npz** follow  *backend/assets/similarity_matrices.npz*
 
 ### 3. Backend Setup 
@@ -43,7 +43,10 @@ This README outlines the steps for setting up and running the ALI33 web applicat
     ```bash
     cd backend
     ```
-    Unzip the file similarity_matrices.rar in the backend/assets directory.
+2.  **Install requirements:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 2.  **Run the Server:**
     ```bash
@@ -65,7 +68,10 @@ This README outlines the steps for setting up and running the ALI33 web applicat
     flutter run -d chrome
     ```
     This will launch the application in Chrome browser.
-
-## Summary
+### SignUP Example:
+- **user**: Admin@g.c
+- **pass**: Admin12345!
+ 
+ ## Summary
 
 This process sets up the database, backend server, and frontend application. You can now access and interact with the application through the Chrome browser.
