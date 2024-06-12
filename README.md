@@ -1,3 +1,4 @@
+# Link: https://github.com/nguyenduchuyiu/ali33 - Repository contains all commit in development process
 # ALI33 - Movies Rentals Web Application
 
 ## Description
